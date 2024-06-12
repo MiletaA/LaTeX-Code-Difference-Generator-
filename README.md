@@ -4,15 +4,15 @@ This repository contains a Python script that generates a LaTeX document to high
 <table>
   <tr>
     <td>
-      <img src="https://github.com/MiletaA/LaTeX-code-diff-generator-/assets/92308650/48f02060-dd94-40a5-9b4e-3ee52343888b" width="300">
+      <img src="https://github.com/MiletaA/LaTeX-Code-Difference-Generator-/assets/92308650/3715b47a-0f96-4e2e-9e36-f0e13e95ac27" width="300">
       <p align="center">Code 1</p>
     </td>
     <td>
-      <img src="https://github.com/MiletaA/LaTeX-code-diff-generator-/assets/92308650/aebb630b-edc3-4d84-9ef9-51f677fc9318" width="300">
+      <img src="https://github.com/MiletaA/LaTeX-Code-Difference-Generator-/assets/92308650/f56d9c45-dced-4e67-9ca1-50e5cab3253c" width="300">
       <p align="center">Code 2</p>
     </td>
     <td>
-      <img src="https://github.com/MiletaA/LaTeX-code-diff-generator-/assets/92308650/bdc6ecb1-8936-4815-a2f6-98e7973a2a6d" width="300">
+      <img src="https://github.com/MiletaA/LaTeX-Code-Difference-Generator-/assets/92308650/67a672ed-a8fc-4d6a-851e-e1e74e13cc32" width="300">
       <p align="center">Diff</p>
     </td>
   </tr>
